@@ -1,0 +1,41 @@
+{
+  "list": [
+    {
+      "key": 1,
+      "name": "产品11111",
+      "brief": "产品1简述",
+      "original_price": 29,
+      "resale_price": 15,
+      "edit_date": 1554433925
+    },
+    {
+      "key": 2,
+      "name": "产品2",
+      "brief": "产品2简述",
+      "original_price": 29,
+      "resale_price": 15,
+      "edit_date": 1554433925
+    },
+    {
+      "key": 3,
+      "name": "产品3",
+      "brief": "产品3简述",
+      "original_price": 29,
+      "resale_price": 15,
+      "edit_date": 1554433925
+    },
+    {
+      "key": 4,
+      "name": "产品4",
+      "brief": "产品4简述",
+      "original_price": 29,
+      "resale_price": 15,
+      "edit_date": 1554433925
+    }
+  ],
+  "pagination": {
+    "total": 46,
+    "pageSize": 10,
+    "current": 1
+  }
+}
